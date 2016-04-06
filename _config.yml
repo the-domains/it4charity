@@ -1,0 +1,14 @@
+layout_spectrum: 0.6814265
+typography_spectrum: 0.2960835
+color:
+  saturation: 0.189238
+  lightness: 0.3138676
+  brandStrength: 0.1591984
+  rhythmicContrast: 0.4704945
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: It4charity
